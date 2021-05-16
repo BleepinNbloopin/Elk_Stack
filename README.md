@@ -8,9 +8,9 @@ The files/playbooks listed below have been tested and used to generate a live EL
 to either recreate the entire deployment pictured above. Alternatively, these files can be modified to install only 
 certain pieces of it; such as Filebeat/Metricbeat or any other Beats desired.
 ```
-- [CLICK to view - Elk-Server-Deployment Playbook](https://github.com/IrishLuck1/CyberSec/blob/main/Ansible/elk-server-deployment.yml)
-- [CLICK to view - FileBeat Deployment Playbook](Ansible/filebeat-playbook.yml)
-- [CLICK to view - MetricBeat Deployment Playbook](https://github.com/IrishLuck1/CyberSec/blob/main/Ansible/metricbeat-playbook.yml)
+- [CLICK to view - Elk-Server-Deployment Playbook](https://github.com/BleepinNbloopin/Elk_Stack/blob/main/Ansible/elk-server-deployment.yml)
+- [CLICK to view - FileBeat Deployment Playbook](https://github.com/BleepinNbloopin/Elk_Stack/blob/main/Ansible/filebeat-playbook.yml)
+- [CLICK to view - MetricBeat Deployment Playbook](https://github.com/BleepinNbloopin/Elk_Stack/blob/main/Ansible/metricbeat-playbook.yml)
 
 **This document contains the following details:**
 - **Description of the Topology**
