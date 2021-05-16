@@ -1,24 +1,3 @@
-New Text Document (6).txt
-k
-B
-Type
-Text
-Size
-17 KB (17,116 bytes)
-Storage used
-17 KB (17,116 bytes)
-Location
-Elk stack
-Owner
-kornelious1
-Modified
-8:25 PM by kornelious1
-Opened
-8:27 PM by me
-Created
-8:26 PM
-Add a description
-Viewers can download
 # Automated ELK Stack & Beats Deployment
 
 ### The files in this repository were used to configure the network depicted below.
